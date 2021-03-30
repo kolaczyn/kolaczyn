@@ -9,29 +9,19 @@ And that's what I've been doing since July of 2020. I've learned a ton since the
 #### Frontend Development
 - Semantic HTML
 - Modern CSS
-- JavaScript, ES6, ES7
+- JavaScript, TypeScript
 - Git
-- React:
-  - React Router
-  - React Testing Library
-  - Gatsby
-  - Next.js
-- TypeScript
-- Figma
-- Tailwind
-- SASS
-- Firebase
+- React, Gatsby, Next.js
 - Vue
+- SASS, Tailwind
+- Figma
 
 #### Other
-- Node, NPM, Express
+- Express
 - Python
 - Flask
 - SQL
 - MongoDB
-- Linux, shell scripting
-- Vim
-- Basics of C++, PHP, Golang
 
 ### Projects
 Currently I don't host these projects, but it'll change soon
