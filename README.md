@@ -31,3 +31,4 @@ Currently I don't host these projects, but it'll change soon
 - [Typing Test](https://github.com/kolaczyn/typing-test) - React, Firebase, Styled Components
 - [Learn Japanese](https://github.com/kolaczyn/learn-japanese) - Vue, Firebase
 - [Blog](https://github.com/kolaczyn/brodie-robertson-website) - React, Next.js, TypeScript, Tailwind
+- [Reddit Clone](https://github.com/kolaczyn/react-clone) - Vue, Nuxt.js
