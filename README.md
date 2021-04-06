@@ -1,12 +1,7 @@
-## Hi, I'm Paweł
-I'm one of those people who said
-> *f\*ck it*, I'm just gonna self study web development and get a job without a degree
+### Hi, I'm Paweł
+I've been studying web developmene since July of 2020
 
-And that's what I've been doing since July of 2020. I've learned a ton since then.
-
-## My skills
-
-#### Frontend Development
+#### My Skills
 - Semantic HTML
 - Modern CSS
 - JavaScript, TypeScript
@@ -16,7 +11,7 @@ And that's what I've been doing since July of 2020. I've learned a ton since the
 - SASS, Tailwind
 - Figma
 
-### Projects
+#### Projects
 - [My Website](https://kolaczyn.com)
 - [Chess](https://github.com/kolaczyn/chess-js) - SCSS & vanilla JS.
 - [Redesign of Luke Smith's website](https://github.com/kolaczyn/lukesmithxyz) - SCSS & vanilla JS.
