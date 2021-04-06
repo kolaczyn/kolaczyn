@@ -16,15 +16,8 @@ And that's what I've been doing since July of 2020. I've learned a ton since the
 - SASS, Tailwind
 - Figma
 
-#### Other
-- Express
-- Python
-- Flask
-- SQL
-- MongoDB
-
 ### Projects
-Currently I don't host these projects, but it'll change soon
+- [My Website](https://kolaczyn.com)
 - [Chess](https://github.com/kolaczyn/chess-js) - SCSS & vanilla JS.
 - [Redesign of Luke Smith's website](https://github.com/kolaczyn/lukesmithxyz) - SCSS & vanilla JS.
 - [4chan clone](https://github.com/kolaczyn/4chan-fullstack) - React, Express, TypeScript, MongoDB
