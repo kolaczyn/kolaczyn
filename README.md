@@ -20,3 +20,4 @@ I've been studying web developmene since July of 2020
 - [Learn Japanese](https://github.com/kolaczyn/learn-japanese) - Vue, Firebase
 - [Blog](https://github.com/kolaczyn/brodie-robertson-website) - React, Next.js, TypeScript, Tailwind
 - [Reddit Clone](https://github.com/kolaczyn/react-clone) - Vue, Nuxt.js
+- [Link Shortener](https://github.com/kolaczyn/link-shortener-frontend) - MEVN stack
