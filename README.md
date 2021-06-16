@@ -1,5 +1,5 @@
 ### Hi, I'm Paweł
-I've been studying web developmene since July of 2020
+I've been studying web developmene since the July of 2020
 
 #### My Skills
 - Semantic HTML
