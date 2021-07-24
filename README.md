@@ -14,7 +14,7 @@ It's where I spend most of my time and feel the most comfortable writing code.
 - React, Next
 - JAM with Gatsby
 - Vue, Nuxt
-- Consuming z REST oraz GraphQL API
+- Consuming z REST and GraphQL API
 - Web design in Figma
 
 ## Backend Skills
@@ -32,23 +32,23 @@ You can also see them on [my website](https://kolaczyn.com/project/track-fit)
 
 - [**Track Fit**](https://track-fit.me/food) ([source code](https://github.com/kolaczyn/fit-tracker))
   - Web app for tracking calories intake. Includes calculctors - BMI and few others
-  - Next, TS, Redux Toolkit, Jest, Chakra UI, Formik
+  - Next, TypeScript, Redux Toolkit, Jest, Chakra UI, Formik
 - [**4chan Fullstack**](https://4chan.kolaczyn.com) ([source code](https://github.com/kolaczyn/4chan-fullstack))
   - MERN Stack
 - [**Anime Reviews**](https://anime-reviews.kolaczyn.com) ([source code](https://github.com/kolaczyn/anime-reviews))
   - a place for my reviews
   - JAM Stack - Gatsby + Strapi
-- [**Portfolio Website**](https://kolaczyn.com) ([source code](https://github.com/kolaczyn/portfolio-website))
-  - Vue, Nuxt, Tailwind
-- [**Reddit Clone**](https://reddit.kolaczyn.com) ([source code](https://github.com/kolaczyn/reddit-clone))
-  - Only frontend, but I plan to add backend as well
-  - Vue, Nuxt, Tailwind
 - [**Tech Blog**](https://tech-blog.kolaczyn.com) ([source code](https://github.com/kolaczyn/tech-blog))
   - A blog based on Markdown files
   - Next, TS, Tailwind, Preact
 - [**Typing Test**](https://github.com/kolaczyn/typing-test) ([source code](https://github.com/kolaczyn/typing-test))
   - Test your typing speed
-  - React, Styled Components. Context + Reducer + Immer for state management
+  - React, TypeScript, Styled Components, Firebase. Testing with Jest, Testing Library and Cypress. Context + Reducer + Immer for state management
+- [**Reddit Clone**](https://reddit.kolaczyn.com) ([source code](https://github.com/kolaczyn/reddit-clone))
+  - Only frontend, but I plan to add backend to it as well
+  - Vue, Nuxt, Tailwind
+- [**Portfolio Website**](https://kolaczyn.com) ([source code](https://github.com/kolaczyn/portfolio-website))
+  - Vue, Nuxt, Tailwind
 - [**Learn Japanese**](https://learn-japanese.kolaczyn.com/) ([source code](https://github.com/kolaczyn/learn-japanese))
   - A website for an imaginary business helping people learn Japanese
   - Vue, Firebase
@@ -58,16 +58,3 @@ You can also see them on [my website](https://kolaczyn.com/project/track-fit)
 - [**Redesign of Luke Smith's website**](https://luke-smith.kolaczyn.com) ([source code](https://github.com/kolaczyn/lukesmithxyz))
   - It's a redesign of [this website](https://lukesmith.xyz)
   - SCSS, Webpack
-
-### Unfinished projects
-
-I might come back to them in the future
-
-- [**Quizwind**](https://quizwind.vercel.app) ([source code](https://github.com/kolaczyn/quizwind))
-  - Solve and add quizes
-  - Next, Material UI, TS. Express, TypeORM, MySQL
-- [**Link Shortener**](https://link-shortener.kolaczyn.com/) ([frontend code](https://github.com/kolaczyn/link-shortener-frontend), [backend code](https://github.com/kolaczyn/link-shortener-backend))
-  - Creates a short link which redirects to another website
-  - Vue, Nuxt. Express, Redis
-- [**Backend for Reddit clone**](https://github.com/kolaczyn/reddit-clone-backend)
-  - Express, MySQL
