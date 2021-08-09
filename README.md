@@ -38,6 +38,10 @@ You can also see them on [my website](https://kolaczyn.com/project/track-fit)
 - [**Anime Reviews**](https://anime-reviews.kolaczyn.com) ([source code](https://github.com/kolaczyn/anime-reviews))
   - a place for my reviews
   - JAM Stack - Gatsby + Strapi
+- [**Architect's Portfolio**](https://architektura.kolaczyn.com) ([source code](https://github.com/kolaczyn/architect-portfolio))
+  - Tailwind, TypeScript, React
+  - The user can easily edit the data on contentful, which triggers redeploy on Gatsby Cloud
+  - JAM Stack - Gatsby + Contentful
 - [**Tech Blog**](https://tech-blog.kolaczyn.com) ([source code](https://github.com/kolaczyn/tech-blog))
   - A blog based on Markdown files
   - Next, TS, Tailwind, Preact
