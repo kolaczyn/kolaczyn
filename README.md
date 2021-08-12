@@ -1,9 +1,7 @@
 # Hi, I'm Paweł
 
 I've been studying web development since the July of 2020. I learned a lot in the last year.  
-Currently, I'm looking for my first job in the industry.  
-
-I have a website at [kolaczyn.com](https://kolaczyn.com).
+Currently, I'm looking for my first job in the industry.
 
 ## Projects
 
