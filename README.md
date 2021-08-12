@@ -1,34 +1,11 @@
 # Hi, I'm Paweł
 
 I've been studying web development since the July of 2020. I learned a lot in the last year.  
-Currently, I'm looking for my first job in the industry.
+Currently, I'm looking for my first job in the industry.  
 
-## Frontend Skills
-
-It's where I spend most of my time and feel the most comfortable writing code.
-
-- HTML5, CSS3, Responsive Design
-- SCSS, Tailwind, Chakra UI, Styled Components
-- JavaScript, TypeScript, ES6
-- Git, Git Flow
-- React, Next
-- JAM with Gatsby
-- Vue, Nuxt
-- Consuming z REST and GraphQL API
-- Web design in Figma
-
-## Backend Skills
-
-I don't feel as strong with these, but at least I know that there isn't some magic going on in the backend.
-
-- Terminal, Linux
-- MySQL, MongoDB
-- Node.js, Express
-- Docker
+I have a website at [kolaczyn.com](https://kolaczyn.com).
 
 ## Projects
-
-You can also see them on [my website](https://kolaczyn.com/project/track-fit)
 
 - [**Track Fit**](https://track-fit.me/food) ([source code](https://github.com/kolaczyn/fit-tracker))
   - Web app for tracking calories intake. Includes calculctors - BMI and few others
