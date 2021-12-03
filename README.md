@@ -19,7 +19,7 @@ I've been studying web development since the July of 2020. I learned a lot in th
 - [**Tech Blog**](https://tech-blog.kolaczyn.com) ([source code](https://github.com/kolaczyn/tech-blog))
   - A blog based on Markdown files
   - Next, TS, Tailwind, Preact
-- [**Typing Test**](https://github.com/kolaczyn/typing-test) ([source code](https://github.com/kolaczyn/typing-test))
+- [**Typing Test**](https://typing-test.kolaczyn.com) ([source code](https://github.com/kolaczyn/typing-test))
   - Test your typing speed
   - React, TypeScript, Styled Components, Firebase. Testing with Jest, Testing Library and Cypress. Context + Reducer + Immer for state management
 - [**Reddit Clone**](https://reddit.kolaczyn.com) ([source code](https://github.com/kolaczyn/reddit-clone))
