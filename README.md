@@ -4,7 +4,7 @@ I've been studying web development since the July of 2020. I learned a lot in th
 
 ## Projects
 
-- [**Track Fit**](https://track-fit.me/food) ([source code](https://github.com/kolaczyn/fit-tracker))
+- [**Track Fit**](https://fit-tracker.vercel.app) ([source code](https://github.com/kolaczyn/fit-tracker))
   - Web app for tracking calories intake. Includes calculctors - BMI and few others
   - Next, TypeScript, Redux Toolkit, Jest, Chakra UI, Formik
 - [**4chan Fullstack**](https://4chan.kolaczyn.com) ([source code](https://github.com/kolaczyn/4chan-fullstack))
