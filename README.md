@@ -1,6 +1,12 @@
-# Hi, I'm Paweł
+# Hey, I'm Paweł
 
-I've been studying web development since the July of 2020. I learned a lot in the last year.  
+I'm a self taught Frontend Developer. I love learning new things, so I'm currently researching:
+- microfrontends & monorepos
+- the newest frontend frameworks like Astro, Qwik, Solid
+- how to create a UI library
+- TypeScript wizardy
+- Japanese
+- functional programming
 
 ## Projects
 
@@ -22,17 +28,3 @@ I've been studying web development since the July of 2020. I learned a lot in th
 - [**Typing Test**](https://typing-test.kolaczyn.com) ([source code](https://github.com/kolaczyn/typing-test))
   - Test your typing speed
   - React, TypeScript, Styled Components, Firebase. Testing with Jest, Testing Library and Cypress. Context + Reducer + Immer for state management
-- [**Reddit Clone**](https://reddit.kolaczyn.com) ([source code](https://github.com/kolaczyn/reddit-clone))
-  - Only frontend, but I plan to add backend to it as well
-  - Vue, Nuxt, Tailwind
-- [**Portfolio Website**](https://kolaczyn.com) ([source code](https://github.com/kolaczyn/portfolio-website))
-  - Vue, Nuxt, Tailwind
-- [**Learn Japanese**](https://learn-japanese.kolaczyn.com/) ([source code](https://github.com/kolaczyn/learn-japanese))
-  - A website for an imaginary business helping people learn Japanese
-  - Vue, Firebase
-- [**Chess**](https://chess.kolaczyn.com) ([source code](https://github.com/kolaczyn/chess-js))
-  - It lacks castling, en passant. Also, you can only play against yourself
-  - Vanilla JS, SCSS, Webpack
-- [**Redesign of Luke Smith's website**](https://luke-smith.kolaczyn.com) ([source code](https://github.com/kolaczyn/lukesmithxyz))
-  - It's a redesign of [this website](https://lukesmith.xyz)
-  - SCSS, Webpack
