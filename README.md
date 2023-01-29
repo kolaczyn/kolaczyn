@@ -1,8 +1,8 @@
 # Hey, I'm Paweł
 
-I'm a self taught Frontend Developer. I love learning new things, so I'm currently researching:
+I'm a self taught Frontend Developer. I love learning new things. I'm currently researching:
 - microfrontends & monorepos
-- the newest frontend frameworks like Astro, Qwik, Solid
+- the newest frontend frameworks like Astro, Qwik, Solid, Svelte
 - how to create a UI library
 - TypeScript wizardy
 - Japanese
