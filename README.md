@@ -7,4 +7,3 @@ I'm a self taught Frontend Developer. I love learning new things. I'm currently 
 - functional programming
 - Japanese
 - iOS development (Swift + SwiftUI)
-- 
